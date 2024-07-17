@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "clientName": "Swagger",
+    "clientEmail": "avinash@gmail.com"
+  },
+  "submitOrder": {
+    "bookId": 1,
+    "customerName": "Avinash"
+  }
+}
